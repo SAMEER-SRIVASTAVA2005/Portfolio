@@ -45,6 +45,19 @@ const Projects = () => {
       screenshot: "/images/shortest-path.png",
       categories: ["Frontend", "Algorithm Visualization"],
       featured: false
+    },
+    {
+      title: "HireSense – AI Mock Interview Platform",
+      description:
+        "HireSense is an AI-powered mock interview platform designed to help students and job seekers prepare for technical and behavioral interviews.",
+      longDescription:
+        "The system simulates real interview scenarios by generating dynamic interview questions, recording candidate responses, and providing structured feedback. It allows users to practice interviews in a realistic environment, improving communication skills, confidence, and problem-solving ability. The platform includes features such as question categorization, interview session management, response tracking, and performance evaluation.",
+      technologies: ["React.js", "Vite", "JavaScript", "Node.js", "Express.js", "Tailwind CSS", "REST APIs", "Vercel", "GitHub"],
+      demoLink: "https://project-hire.vercel.app/login",
+      codeLink: "https://github.com/SAMEER-SRIVASTAVA2005/Project-Hire",
+      screenshot: "/images/hireSpace.png",
+      categories: ["Full Stack", "Interview Platform"],
+      featured: false
     }
   ];
 
